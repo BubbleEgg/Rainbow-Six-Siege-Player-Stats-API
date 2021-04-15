@@ -1,6 +1,9 @@
 # Rainbow Six Siege Player Stats API
 This API queries the Rainbow Six Siege stats from any given player by name or uplayID. Multiple and mixed requests at one are also possible.
 
+If you are looking for an already hosted, documented and maintained API, [check out our StatsDB Developer API](https://developers.statsdb.net/docs/introduction)  
+The StatsDB API provides you with all stats, leaderboards, assets, and tools like search and namecheck to build your own powerfull applications.
+
 ## Installation:
 1. Clone this whole repo (git clone).
 2. Upload it to your webserver to any location.
